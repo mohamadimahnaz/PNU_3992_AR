@@ -30,6 +30,7 @@
 
 - [پاورپوینت 5-  12 تا 24](https://github.com/mohamadimahnaz/PNU_3992_AR/blob/main/%DA%AF%D8%B1%D8%A7%D9%85%D8%B1%D9%87%D8%A7-%D9%BE%D8%A7%D9%88%D8%B1%D9%BE%D9%88%DB%8C%D9%86%D8%AA5-%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF%2012%20%D8%AA%D8%A7%2024.rar)
 - [پاورپوینت 5 - اسلاید 25 تا 48](https://github.com/mohamadimahnaz/PNU_3992_AR/blob/main/%DA%AF%D8%B1%D8%A7%D9%85%D8%B1%20%D9%85%D9%86%D8%B8%D9%85%20-%D9%BE%D8%A7%D9%88%D8%B1%D9%BE%D9%88%DB%8C%D9%86%D8%AA5%20-25%20%D8%AA%D8%A7%2048%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF.rar)
+ - [پاورپوینت 6 - اسلاید 28 تا 49](https://github.com/mohamadimahnaz/PNU_3992_AR/blob/main/%D9%84%D9%85%20%D9%BE%D8%A7%D9%85%D9%BE%DB%8C%D9%86%DA%AF-%D9%BE%D8%A7%D9%88%D8%B1%D9%BE%D9%88%DB%8C%D9%86%D8%AA6%20%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF28%D8%AA%D8%A749.rar)
  -
 
 ------------------
