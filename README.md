@@ -1,9 +1,9 @@
 # PNU_3992_AR
 
 <div dir="rtl">
+### نطریه زبانها و ماشینها
 
-
-### کلثوم محمدی 
+### مهناز محمدی 
  
 ---
 - [PNU_3991_AR](https://github.com/mohamadimahnaz/PNU_3991_AR)
